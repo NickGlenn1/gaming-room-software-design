@@ -1,3 +1,4 @@
+#Project Overview
 # gaming-room-software-design
 
 The Gaming Room was the client for this project, and they wanted a web-based version of their game “Draw It or Lose It.” The goal was to design a system that would allow multiple users to connect and play the game across different platforms. The software needed to support multiplayer functionality, handle user data, and be scalable so it could grow over time.
